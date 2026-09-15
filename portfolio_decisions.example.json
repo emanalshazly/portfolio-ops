@@ -1,0 +1,1 @@
+{"schema_version":1,"as_of":"2026-09-15","default_status":"freeze_review","projects":{"example-active":{"status":"active_build","canonical":true,"priority":"P1","decision":"Example only."},"example-overlap":{"status":"freeze_review","canonical":false,"priority":"P4","decision":"Example only."}}}
