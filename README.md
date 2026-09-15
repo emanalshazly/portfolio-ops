@@ -8,6 +8,8 @@ locally; selected files are not uploaded. The repository excludes the owner's
 real project-decision ledger and provides `portfolio_decisions.example.json`
 instead.
 
+**Live:** [open the local-only corpus inspector](https://emanalshazly.github.io/portfolio-ops/).
+
 ## Run
 
 ```powershell
